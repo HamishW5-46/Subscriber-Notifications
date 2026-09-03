@@ -1,4 +1,4 @@
-# Post Notifications - Email Subscription
+# Subscriber Notifications
 
 WordPress plugin for collecting post-notification subscribers, sending double opt-in confirmation emails, and notifying confirmed subscribers when new posts are published.
 
